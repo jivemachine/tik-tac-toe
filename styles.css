@@ -24,9 +24,9 @@ div.row > * {
 }
 
 .left {
-    border-left: 1px black solid;
+    border-right: 1px black solid;
 }
 
 .right {
-    border-right: 1px black solid;
+    border-left: 1px black solid;
 }
