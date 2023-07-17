@@ -1,12 +1,26 @@
 #board {
-    padding-top: 3em;
+    padding-top: 3rem;
     text-align: center;
+    font-family: monospace;
+}
+
+.button {
+    left: 37em;
+    bottom: 20em;
+    width: 100px;
+    height: 40px;
+    position:absolute;
+    z-index: 2;
+    background: orange;
 }
 
 div.row > * {
     float: left;
     height: 100px;
     width: 100px;
+    cursor: pointer;
+    line-height: 100px;
+    font-size: 75px;
 }
 
 .row {
