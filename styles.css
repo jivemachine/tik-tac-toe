@@ -4,16 +4,6 @@
     font-family: monospace;
 }
 
-.button {
-    left: 37em;
-    bottom: 20em;
-    width: 100px;
-    height: 40px;
-    position:absolute;
-    z-index: 2;
-    background: orange;
-}
-
 div.row > * {
     float: left;
     height: 100px;
